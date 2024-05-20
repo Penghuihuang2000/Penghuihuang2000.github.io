@@ -2,7 +2,7 @@
 title: "Accurate estimation of rare cell-type fractions from tissue omics data via hierarchical deconvolution"
 collection: publications
 permalink: /publication/HiDecon
-date: 2023
+date: 2024
 paperurl: "https://projecteuclid.org/journals/annals-of-applied-statistics/volume-18/issue-2/Accurate-estimation-of-rare-cell-type-fractions-from-tissue-omics/10.1214/23-AOAS1829.full"
 ---
 
