@@ -3,6 +3,7 @@ title: "Accurate estimation of rare cell-type fractions from tissue omics data v
 collection: publications
 permalink: /publication/HiDecon
 date: June 2024
+venue: Annals of Applied Statistics
 paperurl: "https://projecteuclid.org/journals/annals-of-applied-statistics/volume-18/issue-2/Accurate-estimation-of-rare-cell-type-fractions-from-tissue-omics/10.1214/23-AOAS1829.full"
 ---
 
