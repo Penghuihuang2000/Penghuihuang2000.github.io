@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assitant: BIOST 2068 Introduction to Causal Inference"
+title: "Teaching Assistant: BIOST 2068 Introduction to Causal Inference"
 collection: teaching
 type: "Graduate"
 permalink: /teaching/2023-fall-teaching
