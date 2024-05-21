@@ -10,6 +10,6 @@ location: "Ann Arbor, MI, USA"
 
 Won Research Poster Award of 2023 ICSA Applied Statistics Symposium. Won Best PhD Poster Award of Biostatistics Research Day at University of Pittsburgh. Also presented at NESS and ASA Pittsburgh Chapter Spring Banquet.
 
-[Download poster](HiDecon poster_file.pdf)
+[Download poster](HiDecon_poster_file.pdf)
 
 
