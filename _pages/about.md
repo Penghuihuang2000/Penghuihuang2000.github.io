@@ -18,9 +18,9 @@ I am a **Ph.D. candidate in Biostatistics** at University of Pittsburgh, advised
 
 My research focuses on developing and applying statistical and machine learning methods to address biomedical challenges.  
 
-**Methodology.** My work centers on statistical genomics and genetics, with an emphasis on cellular deconvolution, multi-omics integration, Bayesian modeling, and statistical computing.  
+**Methodology.** My work centers on statistical genomics and genetics, with an emphasis on cellular deconvolution, multi-omics integration, Bayesian modeling, statistical computing, and network.  
 
-**Applications.** I collaborate with biomedical researchers to apply these methods to large-scale studies in neurodegenerative disease, respiratory disease, and reproductive health, enabling insights into disease mechanisms and potential biomarkers.  
+**Applications.** I collaborate with biomedical researchers to apply these methods to large-scale studies in neurodegenerative disease, respiratory disease, and reproductive health, enabling insights into disease mechanisms and biomarker discoveries.  
 
 ---
 
