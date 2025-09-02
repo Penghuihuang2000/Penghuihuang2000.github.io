@@ -1,5 +1,4 @@
 ---
-title: "Talks & Presentations"
 permalink: /talks/
 author_profile: true
 ---
